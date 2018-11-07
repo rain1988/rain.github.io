@@ -1,10 +1,10 @@
 # Site settings
-title: Rain`s Blog
-SEOTitle: Rain的博客 | Rain`s Blog
+title: Rain's Blog
+SEOTitle: Rain的博客 | Rain's Blog
 header-img: img/post-bg-desk.jpg
 email: zxc115514196@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Rain, Rain`s Blog, Rain的博客, iOS, Apple, iPhone"
+keyword: "Rain, Rain's Blog, Rain的博客, iOS, Apple, iPhone"
 url: "http://rain1988.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/rain1988/rain1988.github.io.git" # you code repository
